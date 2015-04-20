@@ -1,14 +1,14 @@
+
 package com.jlu.create.e_singleton;
 /**
- * ÕâÊÇ²âÊÔ2µÄÀà
- * @title Test2
+ * å•ä¾‹æ¨¡å¼
+ * @title Class3
  * @description TODO 
  * @author pan
- * @date 2015Äê4ÔÂ20ÈÕ
+ * @date 2015å¹´4æœˆ20æ—¥
  * @version 1.0
  */
-public class Test2 {
-	
-	
+public class Class3 {
 
 }
+
